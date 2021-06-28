@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ogenrwotaron@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/13XWLcWxPp-15Nl_UdwWkpagXw0Do_zAG/view?usp=sharing)
+- 📄 Know about my experiences [here](https://www.linkedin.com/in/aaron-ogenrwot-240ba716b/)
 
 - ⚡ Fun fact **I'm a Graphics Designer and a Fine Artist**
 
