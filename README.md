@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ogenrwotaaron" target="blank"><img src="https://img.shields.io/twitter/follow/ogenrwotaaron?logo=twitter&style=for-the-badge" alt="ogenrwotaaron" /></a> </p>
 
-- 🔭 I’m currently working at [FreelyFormd](https://freelyformd.com/)
+- 🔭 I’m currently working at [MedX International](https://medx.international/)
 
 - 📫 How to reach me **ogenrwotaron@gmail.com**
 
