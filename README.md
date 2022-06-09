@@ -1,5 +1,3 @@
-<a href="https://app.daily.dev/AaronOgen"><img src="https://api.daily.dev/devcards/9868b79b1d264e068e1b87dcd0f1dda9.png?r=oyi" width="400" alt="Ogenrwot Aaron's Dev Card"/></a>
-
 <h1 align="center">Hi 👋, I'm Aaron Ogenrwot</h1>
 <h3 align="center">A passionate Full-stack Software Developer from Uganda</h3>
 
